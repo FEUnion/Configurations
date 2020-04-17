@@ -1,3 +1,6 @@
+### windows版本
+
+```json
 {
   "editor.tabSize": 2,
   "vetur.validation.template": false,
@@ -124,3 +127,5 @@
   ],
   "editor.renderControlCharacters": true,
 }
+
+```
