@@ -126,6 +126,9 @@
     "getinfosuccess"
   ],
   "editor.renderControlCharacters": true,
+  "files.trimTrailingWhitespace": true,
+    // 指定每行代码的最佳长度， 如果超出长度则换行。
+   "prettier.printWidth": 188,  
 }
 
 ```
